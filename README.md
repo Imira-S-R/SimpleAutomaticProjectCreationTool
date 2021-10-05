@@ -4,7 +4,7 @@ This is a simple bash script you can use to automate the process of starting a n
 ## What does this do ?
 When you run this script it will ask you for the Project Name, Author and The File Extension and it will create a new directory for it and create a file with the give file extension and add the project name and author as a comment to the file based on the extension. Please note that adding a comment in different programming languages are different therefore it will take some time to add support for all the programming languages. Currently it supports .py, .java, .dart and .txt.
 
-## Start guide
+## Quick Start guide
 First Clone The Project
 ```js
 
@@ -29,3 +29,5 @@ Run It
 ./main.sh
 
 ```
+## About
+Project created by Imira Randeniya. If you like it don't forget to star the project. Thank you.
